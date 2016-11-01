@@ -8,7 +8,7 @@
 	path = java-lib-database
 	url = https://github.com/HW-Core/java-lib-database.git
 [submodule "java-lib-xml"]
-	path = java-lib-database
+	path = java-lib-xml
 	url = https://github.com/HW-Core/java-lib-xml.git
 [submodule "java-lib-climenu"]
 	path = java-lib-climenu
