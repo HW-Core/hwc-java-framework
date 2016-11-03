@@ -1,0 +1,18 @@
+[submodule "java-framework-project"]
+	path = java-framework-project
+	url = https://github.com/HW-Core/java-framework-project.git
+[submodule "java-lib-common"]
+	path = java-lib-common
+	url = https://github.com/HW-Core/java-lib-common.git
+[submodule "java-lib-database"]
+	path = java-lib-database
+	url = https://github.com/HW-Core/java-lib-database.git
+[submodule "java-lib-xml"]
+	path = java-lib-xml
+	url = https://github.com/HW-Core/java-lib-xml.git
+[submodule "java-lib-climenu"]
+	path = java-lib-climenu
+	url = https://github.com/HW-Core/java-lib-climenu.git
+[submodule "java-modules"]
+	path = java-modules
+	url = https://github.com/HW-Core/java-modules.git
